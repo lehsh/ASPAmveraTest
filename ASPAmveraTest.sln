@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPAmveraTest", "ASPAmveraTest.csproj", "{552BBA69-9071-4894-B705-E7D4407C4187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{552BBA69-9071-4894-B705-E7D4407C4187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552BBA69-9071-4894-B705-E7D4407C4187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552BBA69-9071-4894-B705-E7D4407C4187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552BBA69-9071-4894-B705-E7D4407C4187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB931F94-FD8E-4C71-9074-81FF3104B33E}
+	EndGlobalSection
+EndGlobal
